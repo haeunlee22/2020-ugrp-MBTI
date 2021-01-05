@@ -147,5 +147,5 @@ print('Labels:\n', label_batch)
 
 # %%
 
-# Different number of numbers at each layer
+# Different number of numbers at each layergit reset --hard HEAD~3
 # Batch normalization
