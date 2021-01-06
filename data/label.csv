@@ -1,502 +1,395 @@
-No.,__  ,E/I,N/S,F/T,J/P,,,
-1  ,ISTJ,I  ,S  ,T  ,J  ,,,
-2  ,ISTJ,I  ,S  ,T  ,J  ,,,
-3  ,ISTJ,I  ,S  ,T  ,J  ,,,
-4  ,ISTJ,I  ,S  ,T  ,J  ,,,
-5  ,ISTJ,I  ,S  ,T  ,J  ,,,
-6  ,ISTJ,I  ,S  ,T  ,J  ,,,
-7  ,ISTJ,I  ,S  ,T  ,J  ,,,
-8  ,ISTJ,I  ,S  ,T  ,J  ,,,
-9  ,ISTJ,I  ,S  ,T  ,J  ,,,
-10 ,ISTJ,I  ,S  ,T  ,J  ,,,
-11 ,ISFJ,I  ,S  ,F  ,J  ,,,
-12 ,ISFJ,I  ,S  ,F  ,J  ,,,
-13 ,ISFJ,I  ,S  ,F  ,J  ,,,
-14 ,ISFJ,I  ,S  ,F  ,J  ,,,
-15 ,ISFJ,I  ,S  ,F  ,J  ,,,
-16 ,ISFJ,I  ,S  ,F  ,J  ,,,
-17 ,ISFJ,I  ,S  ,F  ,J  ,,,
-18 ,ISFJ,I  ,S  ,F  ,J  ,,,
-19 ,ISFJ,I  ,S  ,F  ,J  ,,,
-20 ,ISFJ,I  ,S  ,F  ,J  ,,,
-21 ,ISFJ,I  ,S  ,F  ,J  ,,,
-22 ,ISFJ,I  ,S  ,F  ,J  ,,,
-23 ,ISFJ,I  ,S  ,F  ,J  ,,,
-24 ,ISFJ,I  ,S  ,F  ,J  ,,,
-25 ,ISFJ,I  ,S  ,F  ,J  ,,,
-26 ,ISFJ,I  ,S  ,F  ,J  ,,,
-27 ,ISFJ,I  ,S  ,F  ,J  ,,,
-28 ,ISFJ,I  ,S  ,F  ,J  ,,,
-29 ,ISFJ,I  ,S  ,F  ,J  ,,,
-30 ,ISFJ,I  ,S  ,F  ,J  ,,,
-31 ,ISFJ,I  ,S  ,F  ,J  ,,,
-32 ,ISFJ,I  ,S  ,F  ,J  ,,,
-33 ,ISFJ,I  ,S  ,F  ,J  ,,,
-34 ,ISFJ,I  ,S  ,F  ,J  ,,,
-35 ,ISFJ,I  ,S  ,F  ,J  ,,,
-36 ,ISFJ,I  ,S  ,F  ,J  ,,,
-37 ,ISFJ,I  ,S  ,F  ,J  ,,,
-38 ,ISFJ,I  ,S  ,F  ,J  ,,,
-39 ,ISFJ,I  ,S  ,F  ,J  ,,,
-40 ,ISFJ,I  ,S  ,F  ,J  ,,,
-41 ,ISFJ,I  ,S  ,F  ,J  ,,,
-42 ,ISFJ,I  ,S  ,F  ,J  ,,,
-43 ,ISFJ,I  ,S  ,F  ,J  ,,,
-44 ,INFJ,I  ,N  ,F  ,J  ,,,
-45 ,INFJ,I  ,N  ,F  ,J  ,,,
-46 ,INFJ,I  ,N  ,F  ,J  ,,,
-47 ,INFJ,I  ,N  ,F  ,J  ,,,
-48 ,INFJ,I  ,N  ,F  ,J  ,,,
-49 ,INFJ,I  ,N  ,F  ,J  ,,,
-50 ,INFJ,I  ,N  ,F  ,J  ,,,
-51 ,INFJ,I  ,N  ,F  ,J  ,,,
-52 ,INFJ,I  ,N  ,F  ,J  ,,,
-53 ,INFJ,I  ,N  ,F  ,J  ,,,
-54 ,INFJ,I  ,N  ,F  ,J  ,,,
-55 ,INFJ,I  ,N  ,F  ,J  ,,,
-56 ,INFJ,I  ,N  ,F  ,J  ,,,
-57 ,INFJ,I  ,N  ,F  ,J  ,,,
-58 ,INFJ,I  ,N  ,F  ,J  ,,,
-59 ,INFJ,I  ,N  ,F  ,J  ,,,
-60 ,INFJ,I  ,N  ,F  ,J  ,,,
-61 ,INFJ,I  ,N  ,F  ,J  ,,,
-62 ,INFJ,I  ,N  ,F  ,J  ,,,
-63 ,INFJ,I  ,N  ,F  ,J  ,,,
-64 ,INFJ,I  ,N  ,F  ,J  ,,,
-65 ,INFJ,I  ,N  ,F  ,J  ,,,
-66 ,INFJ,I  ,N  ,F  ,J  ,,,
-67 ,INFJ,I  ,N  ,F  ,J  ,,,
-68 ,INFJ,I  ,N  ,F  ,J  ,,,
-69 ,INFJ,I  ,N  ,F  ,J  ,,,
-70 ,INFJ,I  ,N  ,F  ,J  ,,,
-71 ,INFJ,I  ,N  ,F  ,J  ,,,
-72 ,INFJ,I  ,N  ,F  ,J  ,,,
-73 ,INFJ,I  ,N  ,F  ,J  ,,,
-74 ,INFJ,I  ,N  ,F  ,J  ,,,
-75 ,INTJ,I  ,N  ,T  ,J  ,,,
-76 ,INTJ,I  ,N  ,T  ,J  ,,,
-77 ,INTJ,I  ,N  ,T  ,J  ,,,
-78 ,INTJ,I  ,N  ,T  ,J  ,,,
-79 ,INTJ,I  ,N  ,T  ,J  ,,,
-80 ,INTJ,I  ,N  ,T  ,J  ,,,
-81 ,INTJ,I  ,N  ,T  ,J  ,,,
-82 ,INTJ,I  ,N  ,T  ,J  ,,,
-83 ,INTJ,I  ,N  ,T  ,J  ,,,
-84 ,INTJ,I  ,N  ,T  ,J  ,,,
-85 ,INTJ,I  ,N  ,T  ,J  ,,,
-86 ,INTJ,I  ,N  ,T  ,J  ,,,
-87 ,INTJ,I  ,N  ,T  ,J  ,,,
-88 ,ISTP,I  ,S  ,T  ,P  ,,,
-89 ,ISTP,I  ,S  ,T  ,P  ,,,
-90 ,ISTP,I  ,S  ,T  ,P  ,,,
-91 ,ISTP,I  ,S  ,T  ,P  ,,,
-92 ,ISTP,I  ,S  ,T  ,P  ,,,
-93 ,ISTP,I  ,S  ,T  ,P  ,,,
-94 ,ISTP,I  ,S  ,T  ,P  ,,,
-95 ,ISTP,I  ,S  ,T  ,P  ,,,
-96 ,ISTP,I  ,S  ,T  ,P  ,,,
-97 ,ISTP,I  ,S  ,T  ,P  ,,,
-98 ,ISTP,I  ,S  ,T  ,P  ,,,
-99 ,ISTP,I  ,S  ,T  ,P  ,,,
-100,ISTP,I  ,S  ,T  ,P  ,,,
-101,ISTP,I  ,S  ,T  ,P  ,,,
-102,ISTP,I  ,S  ,T  ,P  ,,,
-103,ISTP,I  ,S  ,T  ,P  ,,,
-104,ISFP,I  ,S  ,F  ,P  ,,,
-105,ISFP,I  ,S  ,F  ,P  ,,,
-106,ISFP,I  ,S  ,F  ,P  ,,,
-107,ISFP,I  ,S  ,F  ,P  ,,,
-108,ISFP,I  ,S  ,F  ,P  ,,,
-109,ISFP,I  ,S  ,F  ,P  ,,,
-110,ISFP,I  ,S  ,F  ,P  ,,,
-111,ISFP,I  ,S  ,F  ,P  ,,,
-112,ISFP,I  ,S  ,F  ,P  ,,,
-113,ISFP,I  ,S  ,F  ,P  ,,,
-114,ISFP,I  ,S  ,F  ,P  ,,,
-115,ISFP,I  ,S  ,F  ,P  ,,,
-116,ISFP,I  ,S  ,F  ,P  ,,,
-117,ISFP,I  ,S  ,F  ,P  ,,,
-118,ISFP,I  ,S  ,F  ,P  ,,,
-119,ISFP,I  ,S  ,F  ,P  ,,,
-120,ISFP,I  ,S  ,F  ,P  ,,,
-121,ISFP,I  ,S  ,F  ,P  ,,,
-122,ISFP,I  ,S  ,F  ,P  ,,,
-123,ISFP,I  ,S  ,F  ,P  ,,,
-124,ISFP,I  ,S  ,F  ,P  ,,,
-125,ISFP,I  ,S  ,F  ,P  ,,,
-126,ISFP,I  ,S  ,F  ,P  ,,,
-127,ISFP,I  ,S  ,F  ,P  ,,,
-128,ISFP,I  ,S  ,F  ,P  ,,,
-129,ISFP,I  ,S  ,F  ,P  ,,,
-130,ISFP,I  ,S  ,F  ,P  ,,,
-131,ISFP,I  ,S  ,F  ,P  ,,,
-132,ISFP,I  ,S  ,F  ,P  ,,,
-133,ISFP,I  ,S  ,F  ,P  ,,,
-134,ISFP,I  ,S  ,F  ,P  ,,,
-135,ISFP,I  ,S  ,F  ,P  ,,,
-136,ISFP,I  ,S  ,F  ,P  ,,,
-137,ISFP,I  ,S  ,F  ,P  ,,,
-138,ISFP,I  ,S  ,F  ,P  ,,,
-139,ISFP,I  ,S  ,F  ,P  ,,,
-140,ISFP,I  ,S  ,F  ,P  ,,,
-141,ISFP,I  ,S  ,F  ,P  ,,,
-142,ISFP,I  ,S  ,F  ,P  ,,,
-143,INFP,I  ,N  ,F  ,P  ,,,
-144,INFP,I  ,N  ,F  ,P  ,,,
-145,INFP,I  ,N  ,F  ,P  ,,,
-146,INFP,I  ,N  ,F  ,P  ,,,
-147,INFP,I  ,N  ,F  ,P  ,,,
-148,INFP,I  ,N  ,F  ,P  ,,,
-149,INFP,I  ,N  ,F  ,P  ,,,
-150,INFP,I  ,N  ,F  ,P  ,,,
-151,INFP,I  ,N  ,F  ,P  ,,,
-152,INFP,I  ,N  ,F  ,P  ,,,
-153,INFP,I  ,N  ,F  ,P  ,,,
-154,INFP,I  ,N  ,F  ,P  ,,,
-155,INFP,I  ,N  ,F  ,P  ,,,
-156,INFP,I  ,N  ,F  ,P  ,,,
-157,INFP,I  ,N  ,F  ,P  ,,,
-158,INFP,I  ,N  ,F  ,P  ,,,
-159,INFP,I  ,N  ,F  ,P  ,,,
-160,INFP,I  ,N  ,F  ,P  ,,,
-161,INFP,I  ,N  ,F  ,P  ,,,
-162,INFP,I  ,N  ,F  ,P  ,,,
-163,INFP,I  ,N  ,F  ,P  ,,,
-164,INFP,I  ,N  ,F  ,P  ,,,
-165,INFP,I  ,N  ,F  ,P  ,,,
-166,INFP,I  ,N  ,F  ,P  ,,,
-167,INFP,I  ,N  ,F  ,P  ,,,
-168,INFP,I  ,N  ,F  ,P  ,,,
-169,INFP,I  ,N  ,F  ,P  ,,,
-170,INFP,I  ,N  ,F  ,P  ,,,
-171,INFP,I  ,N  ,F  ,P  ,,,
-172,INFP,I  ,N  ,F  ,P  ,,,
-173,INFP,I  ,N  ,F  ,P  ,,,
-174,INFP,I  ,N  ,F  ,P  ,,,
-175,INFP,I  ,N  ,F  ,P  ,,,
-176,INFP,I  ,N  ,F  ,P  ,,,
-177,INFP,I  ,N  ,F  ,P  ,,,
-178,INFP,I  ,N  ,F  ,P  ,,,
-179,INFP,I  ,N  ,F  ,P  ,,,
-180,INFP,I  ,N  ,F  ,P  ,,,
-181,INFP,I  ,N  ,F  ,P  ,,,
-182,INFP,I  ,N  ,F  ,P  ,,,
-183,INFP,I  ,N  ,F  ,P  ,,,
-184,INFP,I  ,N  ,F  ,P  ,,,
-185,INFP,I  ,N  ,F  ,P  ,,,
-186,INFP,I  ,N  ,F  ,P  ,,,
-187,INFP,I  ,N  ,F  ,P  ,,,
-188,INFP,I  ,N  ,F  ,P  ,,,
-189,INFP,I  ,N  ,F  ,P  ,,,
-190,INFP,I  ,N  ,F  ,P  ,,,
-191,INFP,I  ,N  ,F  ,P  ,,,
-192,INFP,I  ,N  ,F  ,P  ,,,
-193,INFP,I  ,N  ,F  ,P  ,,,
-194,INFP,I  ,N  ,F  ,P  ,,,
-195,INFP,I  ,N  ,F  ,P  ,,,
-196,INFP,I  ,N  ,F  ,P  ,,,
-197,INFP,I  ,N  ,F  ,P  ,,,
-198,INFP,I  ,N  ,F  ,P  ,,,
-199,INFP,I  ,N  ,F  ,P  ,,,
-200,INFP,I  ,N  ,F  ,P  ,,,
-201,INFP,I  ,N  ,F  ,P  ,,,
-202,INFP,I  ,N  ,F  ,P  ,,,
-203,INFP,I  ,N  ,F  ,P  ,,,
-204,INFP,I  ,N  ,F  ,P  ,,,
-205,INFP,I  ,N  ,F  ,P  ,,,
-206,INFP,I  ,N  ,F  ,P  ,,,
-207,INFP,I  ,N  ,F  ,P  ,,,
-208,INFP,I  ,N  ,F  ,P  ,,,
-209,INFP,I  ,N  ,F  ,P  ,,,
-210,INFP,I  ,N  ,F  ,P  ,,,
-211,INFP,I  ,N  ,F  ,P  ,,,
-212,INFP,I  ,N  ,F  ,P  ,,,
-213,INFP,I  ,N  ,F  ,P  ,,,
-214,INFP,I  ,N  ,F  ,P  ,,,
-215,INFP,I  ,N  ,F  ,P  ,,,
-216,INFP,I  ,N  ,F  ,P  ,,,
-217,INFP,I  ,N  ,F  ,P  ,,,
-218,INFP,I  ,N  ,F  ,P  ,,,
-219,INFP,I  ,N  ,F  ,P  ,,,
-220,INFP,I  ,N  ,F  ,P  ,,,
-221,INFP,I  ,N  ,F  ,P  ,,,
-222,INFP,I  ,N  ,F  ,P  ,,,
-223,INFP,I  ,N  ,F  ,P  ,,,
-224,INFP,I  ,N  ,F  ,P  ,,,
-225,INFP,I  ,N  ,F  ,P  ,,,
-226,INFP,I  ,N  ,F  ,P  ,,,
-227,INFP,I  ,N  ,F  ,P  ,,,
-228,INFP,I  ,N  ,F  ,P  ,,,
-229,INFP,I  ,N  ,F  ,P  ,,,
-230,INFP,I  ,N  ,F  ,P  ,,,
-231,INFP,I  ,N  ,F  ,P  ,,,
-232,INFP,I  ,N  ,F  ,P  ,,,
-233,INFP,I  ,N  ,F  ,P  ,,,
-234,INFP,I  ,N  ,F  ,P  ,,,
-235,INFP,I  ,N  ,F  ,P  ,,,
-236,INTP,I  ,N  ,T  ,P  ,,,
-237,INTP,I  ,N  ,T  ,P  ,,,
-238,INTP,I  ,N  ,T  ,P  ,,,
-239,INTP,I  ,N  ,T  ,P  ,,,
-240,INTP,I  ,N  ,T  ,P  ,,,
-241,INTP,I  ,N  ,T  ,P  ,,,
-242,INTP,I  ,N  ,T  ,P  ,,,
-243,INTP,I  ,N  ,T  ,P  ,,,
-244,INTP,I  ,N  ,T  ,P  ,,,
-245,INTP,I  ,N  ,T  ,P  ,,,
-246,INTP,I  ,N  ,T  ,P  ,,,
-247,INTP,I  ,N  ,T  ,P  ,,,
-248,INTP,I  ,N  ,T  ,P  ,,,
-249,INTP,I  ,N  ,T  ,P  ,,,
-250,INTP,I  ,N  ,T  ,P  ,,,
-251,INTP,I  ,N  ,T  ,P  ,,,
-252,INTP,I  ,N  ,T  ,P  ,,,
-253,INTP,I  ,N  ,T  ,P  ,,,
-254,INTP,I  ,N  ,T  ,P  ,,,
-255,INTP,I  ,N  ,T  ,P  ,,,
-256,INTP,I  ,N  ,T  ,P  ,,,
-257,INTP,I  ,N  ,T  ,P  ,,,
-258,INTP,I  ,N  ,T  ,P  ,,,
-259,INTP,I  ,N  ,T  ,P  ,,,
-260,INTP,I  ,N  ,T  ,P  ,,,
-261,ESTP,E  ,S  ,T  ,P  ,,,
-262,ESTP,E  ,S  ,T  ,P  ,,,
-263,ESTP,E  ,S  ,T  ,P  ,,,
-264,ESTP,E  ,S  ,T  ,P  ,,,
-265,ESFP,E  ,S  ,F  ,P  ,,,
-266,ESFP,E  ,S  ,F  ,P  ,,,
-267,ESFP,E  ,S  ,F  ,P  ,,,
-268,ESFP,E  ,S  ,F  ,P  ,,,
-269,ESFP,E  ,S  ,F  ,P  ,,,
-270,ESFP,E  ,S  ,F  ,P  ,,,
-271,ESFP,E  ,S  ,F  ,P  ,,,
-272,ESFP,E  ,S  ,F  ,P  ,,,
-273,ESFP,E  ,S  ,F  ,P  ,,,
-274,ESFP,E  ,S  ,F  ,P  ,,,
-275,ESFP,E  ,S  ,F  ,P  ,,,
-276,ESFP,E  ,S  ,F  ,P  ,,,
-277,ESFP,E  ,S  ,F  ,P  ,,,
-278,ESFP,E  ,S  ,F  ,P  ,,,
-279,ESFP,E  ,S  ,F  ,P  ,,,
-280,ESFP,E  ,S  ,F  ,P  ,,,
-281,ESFP,E  ,S  ,F  ,P  ,,,
-282,ESFP,E  ,S  ,F  ,P  ,,,
-283,ESFP,E  ,S  ,F  ,P  ,,,
-284,ESFP,E  ,S  ,F  ,P  ,,,
-285,ESFP,E  ,S  ,F  ,P  ,,,
-286,ESFP,E  ,S  ,F  ,P  ,,,
-287,ESFP,E  ,S  ,F  ,P  ,,,
-288,ESFP,E  ,S  ,F  ,P  ,,,
-289,ESFP,E  ,S  ,F  ,P  ,,,
-290,ESFP,E  ,S  ,F  ,P  ,,,
-291,ENFP,E  ,N  ,F  ,P  ,,,
-292,ENFP,E  ,N  ,F  ,P  ,,,
-293,ENFP,E  ,N  ,F  ,P  ,,,
-294,ENFP,E  ,N  ,F  ,P  ,,,
-295,ENFP,E  ,N  ,F  ,P  ,,,
-296,ENFP,E  ,N  ,F  ,P  ,,,
-297,ENFP,E  ,N  ,F  ,P  ,,,
-298,ENFP,E  ,N  ,F  ,P  ,,,
-299,ENFP,E  ,N  ,F  ,P  ,,,
-300,ENFP,E  ,N  ,F  ,P  ,,,
-301,ENFP,E  ,N  ,F  ,P  ,,,
-302,ENFP,E  ,N  ,F  ,P  ,,,
-303,ENFP,E  ,N  ,F  ,P  ,,,
-304,ENFP,E  ,N  ,F  ,P  ,,,
-305,ENFP,E  ,N  ,F  ,P  ,,,
-306,ENFP,E  ,N  ,F  ,P  ,,,
-307,ENFP,E  ,N  ,F  ,P  ,,,
-308,ENFP,E  ,N  ,F  ,P  ,,,
-309,ENFP,E  ,N  ,F  ,P  ,,,
-310,ENFP,E  ,N  ,F  ,P  ,,,
-311,ENFP,E  ,N  ,F  ,P  ,,,
-312,ENFP,E  ,N  ,F  ,P  ,,,
-313,ENFP,E  ,N  ,F  ,P  ,,,
-314,ENFP,E  ,N  ,F  ,P  ,,,
-315,ENFP,E  ,N  ,F  ,P  ,,,
-316,ENFP,E  ,N  ,F  ,P  ,,,
-317,ENFP,E  ,N  ,F  ,P  ,,,
-318,ENFP,E  ,N  ,F  ,P  ,,,
-319,ENFP,E  ,N  ,F  ,P  ,,,
-320,ENFP,E  ,N  ,F  ,P  ,,,
-321,ENFP,E  ,N  ,F  ,P  ,,,
-322,ENFP,E  ,N  ,F  ,P  ,,,
-323,ENFP,E  ,N  ,F  ,P  ,,,
-324,ENFP,E  ,N  ,F  ,P  ,,,
-325,ENFP,E  ,N  ,F  ,P  ,,,
-326,ENFP,E  ,N  ,F  ,P  ,,,
-327,ENFP,E  ,N  ,F  ,P  ,,,
-328,ENFP,E  ,N  ,F  ,P  ,,,
-329,ENFP,E  ,N  ,F  ,P  ,,,
-330,ENFP,E  ,N  ,F  ,P  ,,,
-331,ENFP,E  ,N  ,F  ,P  ,,,
-332,ENFP,E  ,N  ,F  ,P  ,,,
-333,ENFP,E  ,N  ,F  ,P  ,,,
-334,ENFP,E  ,N  ,F  ,P  ,,,
-335,ENFP,E  ,N  ,F  ,P  ,,,
-336,ENFP,E  ,N  ,F  ,P  ,,,
-337,ENFP,E  ,N  ,F  ,P  ,,,
-338,ENFP,E  ,N  ,F  ,P  ,,,
-339,ENFP,E  ,N  ,F  ,P  ,,,
-340,ENFP,E  ,N  ,F  ,P  ,,,
-341,ENFP,E  ,N  ,F  ,P  ,,,
-342,ENFP,E  ,N  ,F  ,P  ,,,
-343,ENFP,E  ,N  ,F  ,P  ,,,
-344,ENFP,E  ,N  ,F  ,P  ,,,
-345,ENFP,E  ,N  ,F  ,P  ,,,
-346,ENFP,E  ,N  ,F  ,P  ,,,
-347,ENFP,E  ,N  ,F  ,P  ,,,
-348,ENFP,E  ,N  ,F  ,P  ,,,
-349,ENFP,E  ,N  ,F  ,P  ,,,
-350,ENFP,E  ,N  ,F  ,P  ,,,
-351,ENFP,E  ,N  ,F  ,P  ,,,
-352,ENFP,E  ,N  ,F  ,P  ,,,
-353,ENFP,E  ,N  ,F  ,P  ,,,
-354,ENFP,E  ,N  ,F  ,P  ,,,
-355,ENFP,E  ,N  ,F  ,P  ,,,
-356,ENFP,E  ,N  ,F  ,P  ,,,
-357,ENFP,E  ,N  ,F  ,P  ,,,
-358,ENFP,E  ,N  ,F  ,P  ,,,
-359,ENFP,E  ,N  ,F  ,P  ,,,
-360,ENFP,E  ,N  ,F  ,P  ,,,
-361,ENFP,E  ,N  ,F  ,P  ,,,
-362,ENFP,E  ,N  ,F  ,P  ,,,
-363,ENFP,E  ,N  ,F  ,P  ,,,
-364,ENFP,E  ,N  ,F  ,P  ,,,
-365,ENFP,E  ,N  ,F  ,P  ,,,
-366,ENFP,E  ,N  ,F  ,P  ,,,
-367,ENTP,E  ,N  ,T  ,P  ,,,
-368,ENTP,E  ,N  ,T  ,P  ,,,
-369,ENTP,E  ,N  ,T  ,P  ,,,
-370,ENTP,E  ,N  ,T  ,P  ,,,
-371,ENTP,E  ,N  ,T  ,P  ,,,
-372,ENTP,E  ,N  ,T  ,P  ,,,
-373,ENTP,E  ,N  ,T  ,P  ,,,
-374,ENTP,E  ,N  ,T  ,P  ,,,
-375,ENTP,E  ,N  ,T  ,P  ,,,
-376,ENTP,E  ,N  ,T  ,P  ,,,
-377,ENTP,E  ,N  ,T  ,P  ,,,
-378,ENTP,E  ,N  ,T  ,P  ,,,
-379,ENTP,E  ,N  ,T  ,P  ,,,
-380,ENTP,E  ,N  ,T  ,P  ,,,
-381,ENTP,E  ,N  ,T  ,P  ,,,
-382,ENTP,E  ,N  ,T  ,P  ,,,
-383,ENTP,E  ,N  ,T  ,P  ,,,
-384,ENTP,E  ,N  ,T  ,P  ,,,
-385,ENTP,E  ,N  ,T  ,P  ,,,
-386,ENTP,E  ,N  ,T  ,P  ,,,
-387,ENTP,E  ,N  ,T  ,P  ,,,
-388,ENTP,E  ,N  ,T  ,P  ,,,
-389,ENTP,E  ,N  ,T  ,P  ,,,
-390,ENTP,E  ,N  ,T  ,P  ,,,
-391,ENTP,E  ,N  ,T  ,P  ,,,
-392,ENTP,E  ,N  ,T  ,P  ,,,
-393,ENTP,E  ,N  ,T  ,P  ,,,
-394,ENTP,E  ,N  ,T  ,P  ,,,
-395,ENTP,E  ,N  ,T  ,P  ,,,
-396,ESTJ,E  ,S  ,T  ,J  ,,,
-397,ESTJ,E  ,S  ,T  ,J  ,,,
-398,ESTJ,E  ,S  ,T  ,J  ,,,
-399,ESTJ,E  ,S  ,T  ,J  ,,,
-400,ESTJ,E  ,S  ,T  ,J  ,,,
-401,ESTJ,E  ,S  ,T  ,J  ,,,
-402,ESTJ,E  ,S  ,T  ,J  ,,,
-403,ESTJ,E  ,S  ,T  ,J  ,,,
-404,ESTJ,E  ,S  ,T  ,J  ,,,
-405,ESTJ,E  ,S  ,T  ,J  ,,,
-406,ESTJ,E  ,S  ,T  ,J  ,,,
-407,ESTJ,E  ,S  ,T  ,J  ,,,
-408,ESFJ,E  ,S  ,F  ,J  ,,,
-409,ESFJ,E  ,S  ,F  ,J  ,,,
-410,ESFJ,E  ,S  ,F  ,J  ,,,
-411,ESFJ,E  ,S  ,F  ,J  ,,,
-412,ESFJ,E  ,S  ,F  ,J  ,,,
-413,ESFJ,E  ,S  ,F  ,J  ,,,
-414,ESFJ,E  ,S  ,F  ,J  ,,,
-415,ESFJ,E  ,S  ,F  ,J  ,,,
-416,ESFJ,E  ,S  ,F  ,J  ,,,
-417,ESFJ,E  ,S  ,F  ,J  ,,,
-418,ESFJ,E  ,S  ,F  ,J  ,,,
-419,ESFJ,E  ,S  ,F  ,J  ,,,
-420,ESFJ,E  ,S  ,F  ,J  ,,,
-421,ESFJ,E  ,S  ,F  ,J  ,,,
-422,ESFJ,E  ,S  ,F  ,J  ,,,
-423,ESFJ,E  ,S  ,F  ,J  ,,,
-424,ESFJ,E  ,S  ,F  ,J  ,,,
-425,ESFJ,E  ,S  ,F  ,J  ,,,
-426,ESFJ,E  ,S  ,F  ,J  ,,,
-427,ESFJ,E  ,S  ,F  ,J  ,,,
-428,ESFJ,E  ,S  ,F  ,J  ,,,
-429,ESFJ,E  ,S  ,F  ,J  ,,,
-430,ESFJ,E  ,S  ,F  ,J  ,,,
-431,ESFJ,E  ,S  ,F  ,J  ,,,
-432,ESFJ,E  ,S  ,F  ,J  ,,,
-433,ESFJ,E  ,S  ,F  ,J  ,,,
-434,ENFJ,E  ,N  ,F  ,J  ,,,
-435,ENFJ,E  ,N  ,F  ,J  ,,,
-436,ENFJ,E  ,N  ,F  ,J  ,,,
-437,ENFJ,E  ,N  ,F  ,J  ,,,
-438,ENFJ,E  ,N  ,F  ,J  ,,,
-439,ENFJ,E  ,N  ,F  ,J  ,,,
-440,ENFJ,E  ,N  ,F  ,J  ,,,
-441,ENFJ,E  ,N  ,F  ,J  ,,,
-442,ENFJ,E  ,N  ,F  ,J  ,,,
-443,ENFJ,E  ,N  ,F  ,J  ,,,
-444,ENFJ,E  ,N  ,F  ,J  ,,,
-445,ENFJ,E  ,N  ,F  ,J  ,,,
-446,ENFJ,E  ,N  ,F  ,J  ,,,
-447,ENFJ,E  ,N  ,F  ,J  ,,,
-448,ENFJ,E  ,N  ,F  ,J  ,,,
-449,ENFJ,E  ,N  ,F  ,J  ,,,
-450,ENFJ,E  ,N  ,F  ,J  ,,,
-451,ENFJ,E  ,N  ,F  ,J  ,,,
-452,ENFJ,E  ,N  ,F  ,J  ,,,
-453,ENFJ,E  ,N  ,F  ,J  ,,,
-454,ENFJ,E  ,N  ,F  ,J  ,,,
-455,ENFJ,E  ,N  ,F  ,J  ,,,
-456,ENFJ,E  ,N  ,F  ,J  ,,,
-457,ENFJ,E  ,N  ,F  ,J  ,,,
-458,ENFJ,E  ,N  ,F  ,J  ,,,
-459,ENFJ,E  ,N  ,F  ,J  ,,,
-460,ENFJ,E  ,N  ,F  ,J  ,,,
-461,ENFJ,E  ,N  ,F  ,J  ,,,
-462,ENFJ,E  ,N  ,F  ,J  ,,,
-463,ENFJ,E  ,N  ,F  ,J  ,,,
-464,ENFJ,E  ,N  ,F  ,J  ,,,
-465,ENFJ,E  ,N  ,F  ,J  ,,,
-466,ENFJ,E  ,N  ,F  ,J  ,,,
-467,ENFJ,E  ,N  ,F  ,J  ,,,
-468,ENFJ,E  ,N  ,F  ,J  ,,,
-469,ENFJ,E  ,N  ,F  ,J  ,,,
-470,ENFJ,E  ,N  ,F  ,J  ,,,
-471,ENFJ,E  ,N  ,F  ,J  ,,,
-472,ENFJ,E  ,N  ,F  ,J  ,,,
-473,ENFJ,E  ,N  ,F  ,J  ,,,
-474,ENFJ,E  ,N  ,F  ,J  ,,,
-475,ENFJ,E  ,N  ,F  ,J  ,,,
-476,ENFJ,E  ,N  ,F  ,J  ,,,
-477,ENFJ,E  ,N  ,F  ,J  ,,,
-478,ENFJ,E  ,N  ,F  ,J  ,,,
-479,ENFJ,E  ,N  ,F  ,J  ,,,
-480,ENFJ,E  ,N  ,F  ,J  ,,,
-481,ENFJ,E  ,N  ,F  ,J  ,,,
-482,ENFJ,E  ,N  ,F  ,J  ,,,
-483,ENFJ,E  ,N  ,F  ,J  ,,,
-484,ENFJ,E  ,N  ,F  ,J  ,,,
-485,ENTJ,E  ,N  ,T  ,J  ,,,
-486,ENTJ,E  ,N  ,T  ,J  ,,,
-487,ENTJ,E  ,N  ,T  ,J  ,,,
-488,ENTJ,E  ,N  ,T  ,J  ,,,
-489,ENTJ,E  ,N  ,T  ,J  ,,,
-490,ENTJ,E  ,N  ,T  ,J  ,,,
-491,ENTJ,E  ,N  ,T  ,J  ,,,
-492,ENTJ,E  ,N  ,T  ,J  ,,,
-493,ENTJ,E  ,N  ,T  ,J  ,,,
-494,ENTJ,E  ,N  ,T  ,J  ,,,
-495,ENTJ,E  ,N  ,T  ,J  ,,,
-496,ENTJ,E  ,N  ,T  ,J  ,,,
-497,ENTJ,E  ,N  ,T  ,J  ,,,
-498,ENTJ,E  ,N  ,T  ,J  ,,,
-499,ENTJ,E  ,N  ,T  ,J  ,,,
-500,ENTJ,E  ,N  ,T  ,J  ,,,
-501,ENTJ,E  ,N  ,T  ,J  ,,,
+No.,MBTI,E/I,N/S,F/T,J/P
+1,ISTJ,I,S,T,J
+2,ISTJ,I,S,T,J
+3,ISTJ,I,S,T,J
+4,ISTJ,I,S,T,J
+5,ISTJ,I,S,T,J
+6,ISTJ,I,S,T,J
+7,ISFJ,I,S,F,J
+8,ISFJ,I,S,F,J
+9,ISFJ,I,S,F,J
+10,ISFJ,I,S,F,J
+11,ISFJ,I,S,F,J
+12,ISFJ,I,S,F,J
+13,ISFJ,I,S,F,J
+14,ISFJ,I,S,F,J
+15,ISFJ,I,S,F,J
+16,ISFJ,I,S,F,J
+17,ISFJ,I,S,F,J
+18,ISFJ,I,S,F,J
+19,ISFJ,I,S,F,J
+20,ISFJ,I,S,F,J
+21,ISFJ,I,S,F,J
+22,ISFJ,I,S,F,J
+23,ISFJ,I,S,F,J
+24,ISFJ,I,S,F,J
+25,ISFJ,I,S,F,J
+26,ISFJ,I,S,F,J
+27,ISFJ,I,S,F,J
+28,ISFJ,I,S,F,J
+29,ISFJ,I,S,F,J
+30,ISFJ,I,S,F,J
+31,ISFJ,I,S,F,J
+32,ISFJ,I,S,F,J
+33,ISFJ,I,S,F,J
+34,ISFJ,I,S,F,J
+35,ISFJ,I,S,F,J
+36,ISFJ,I,S,F,J
+37,INFJ,I,N,F,J
+38,INFJ,I,N,F,J
+39,INFJ,I,N,F,J
+40,INFJ,I,N,F,J
+41,INFJ,I,N,F,J
+42,INFJ,I,N,F,J
+43,INFJ,I,N,F,J
+44,INFJ,I,N,F,J
+45,INFJ,I,N,F,J
+46,INFJ,I,N,F,J
+47,INFJ,I,N,F,J
+48,INFJ,I,N,F,J
+49,INFJ,I,N,F,J
+50,INFJ,I,N,F,J
+51,INFJ,I,N,F,J
+52,INFJ,I,N,F,J
+53,INFJ,I,N,F,J
+54,INFJ,I,N,F,J
+55,INFJ,I,N,F,J
+56,INFJ,I,N,F,J
+57,INFJ,I,N,F,J
+58,INFJ,I,N,F,J
+59,INFJ,I,N,F,J
+60,INFJ,I,N,F,J
+61,INFJ,I,N,F,J
+62,INFJ,I,N,F,J
+63,INFJ,I,N,F,J
+64,INTJ,I,N,T,J
+65,INTJ,I,N,T,J
+66,INTJ,I,N,T,J
+67,INTJ,I,N,T,J
+68,INTJ,I,N,T,J
+69,INTJ,I,N,T,J
+70,INTJ,I,N,T,J
+71,INTJ,I,N,T,J
+72,INTJ,I,N,T,J
+73,ISTP,I,S,T,P
+74,ISTP,I,S,T,P
+75,ISTP,I,S,T,P
+76,ISTP,I,S,T,P
+77,ISTP,I,S,T,P
+78,ISTP,I,S,T,P
+79,ISTP,I,S,T,P
+80,ISTP,I,S,T,P
+81,ISTP,I,S,T,P
+82,ISTP,I,S,T,P
+83,ISTP,I,S,T,P
+84,ISTP,I,S,T,P
+85,ISTP,I,S,T,P
+86,ISTP,I,S,T,P
+87,ISFP,I,S,F,P
+88,ISFP,I,S,F,P
+89,ISFP,I,S,F,P
+90,ISFP,I,S,F,P
+91,ISFP,I,S,F,P
+92,ISFP,I,S,F,P
+93,ISFP,I,S,F,P
+94,ISFP,I,S,F,P
+95,ISFP,I,S,F,P
+96,ISFP,I,S,F,P
+97,ISFP,I,S,F,P
+98,ISFP,I,S,F,P
+99,ISFP,I,S,F,P
+100,ISFP,I,S,F,P
+101,ISFP,I,S,F,P
+102,ISFP,I,S,F,P
+103,ISFP,I,S,F,P
+104,ISFP,I,S,F,P
+105,ISFP,I,S,F,P
+106,ISFP,I,S,F,P
+107,ISFP,I,S,F,P
+108,ISFP,I,S,F,P
+109,ISFP,I,S,F,P
+110,ISFP,I,S,F,P
+111,ISFP,I,S,F,P
+112,ISFP,I,S,F,P
+113,ISFP,I,S,F,P
+114,ISFP,I,S,F,P
+115,ISFP,I,S,F,P
+116,ISFP,I,S,F,P
+117,ISFP,I,S,F,P
+118,ISFP,I,S,F,P
+119,ISFP,I,S,F,P
+120,INFP,I,N,F,P
+121,INFP,I,N,F,P
+122,INFP,I,N,F,P
+123,INFP,I,N,F,P
+124,INFP,I,N,F,P
+125,INFP,I,N,F,P
+126,INFP,I,N,F,P
+127,INFP,I,N,F,P
+128,INFP,I,N,F,P
+129,INFP,I,N,F,P
+130,INFP,I,N,F,P
+131,INFP,I,N,F,P
+132,INFP,I,N,F,P
+133,INFP,I,N,F,P
+134,INFP,I,N,F,P
+135,INFP,I,N,F,P
+136,INFP,I,N,F,P
+137,INFP,I,N,F,P
+138,INFP,I,N,F,P
+139,INFP,I,N,F,P
+140,INFP,I,N,F,P
+141,INFP,I,N,F,P
+142,INFP,I,N,F,P
+143,INFP,I,N,F,P
+144,INFP,I,N,F,P
+145,INFP,I,N,F,P
+146,INFP,I,N,F,P
+147,INFP,I,N,F,P
+148,INFP,I,N,F,P
+149,INFP,I,N,F,P
+150,INFP,I,N,F,P
+151,INFP,I,N,F,P
+152,INFP,I,N,F,P
+153,INFP,I,N,F,P
+154,INFP,I,N,F,P
+155,INFP,I,N,F,P
+156,INFP,I,N,F,P
+157,INFP,I,N,F,P
+158,INFP,I,N,F,P
+159,INFP,I,N,F,P
+160,INFP,I,N,F,P
+161,INFP,I,N,F,P
+162,INFP,I,N,F,P
+163,INFP,I,N,F,P
+164,INFP,I,N,F,P
+165,INFP,I,N,F,P
+166,INFP,I,N,F,P
+167,INFP,I,N,F,P
+168,INFP,I,N,F,P
+169,INFP,I,N,F,P
+170,INFP,I,N,F,P
+171,INFP,I,N,F,P
+172,INFP,I,N,F,P
+173,INFP,I,N,F,P
+174,INFP,I,N,F,P
+175,INFP,I,N,F,P
+176,INFP,I,N,F,P
+177,INFP,I,N,F,P
+178,INFP,I,N,F,P
+179,INFP,I,N,F,P
+180,INFP,I,N,F,P
+181,INFP,I,N,F,P
+182,INTP,I,N,T,P
+183,INTP,I,N,T,P
+184,INTP,I,N,T,P
+185,INTP,I,N,T,P
+186,INTP,I,N,T,P
+187,INTP,I,N,T,P
+188,INTP,I,N,T,P
+189,INTP,I,N,T,P
+190,INTP,I,N,T,P
+191,INTP,I,N,T,P
+192,INTP,I,N,T,P
+193,INTP,I,N,T,P
+194,INTP,I,N,T,P
+195,INTP,I,N,T,P
+196,INTP,I,N,T,P
+197,INTP,I,N,T,P
+198,INTP,I,N,T,P
+199,INTP,I,N,T,P
+200,INTP,I,N,T,P
+201,INTP,I,N,T,P
+202,INTP,I,N,T,P
+203,ESTP,E,S,T,P
+204,ESTP,E,S,T,P
+205,ESTP,E,S,T,P
+206,ESFP,E,S,F,P
+207,ESFP,E,S,F,P
+208,ESFP,E,S,F,P
+209,ESFP,E,S,F,P
+210,ESFP,E,S,F,P
+211,ESFP,E,S,F,P
+212,ESFP,E,S,F,P
+213,ESFP,E,S,F,P
+214,ESFP,E,S,F,P
+215,ESFP,E,S,F,P
+216,ESFP,E,S,F,P
+217,ESFP,E,S,F,P
+218,ESFP,E,S,F,P
+219,ESFP,E,S,F,P
+220,ESFP,E,S,F,P
+221,ESFP,E,S,F,P
+222,ESFP,E,S,F,P
+223,ESFP,E,S,F,P
+224,ESFP,E,S,F,P
+225,ESFP,E,S,F,P
+226,ENFP,E,N,F,P
+227,ENFP,E,N,F,P
+228,ENFP,E,N,F,P
+229,ENFP,E,N,F,P
+230,ENFP,E,N,F,P
+231,ENFP,E,N,F,P
+232,ENFP,E,N,F,P
+233,ENFP,E,N,F,P
+234,ENFP,E,N,F,P
+235,ENFP,E,N,F,P
+236,ENFP,E,N,F,P
+237,ENFP,E,N,F,P
+238,ENFP,E,N,F,P
+239,ENFP,E,N,F,P
+240,ENFP,E,N,F,P
+241,ENFP,E,N,F,P
+242,ENFP,E,N,F,P
+243,ENFP,E,N,F,P
+244,ENFP,E,N,F,P
+245,ENFP,E,N,F,P
+246,ENFP,E,N,F,P
+247,ENFP,E,N,F,P
+248,ENFP,E,N,F,P
+249,ENFP,E,N,F,P
+250,ENFP,E,N,F,P
+251,ENFP,E,N,F,P
+252,ENFP,E,N,F,P
+253,ENFP,E,N,F,P
+254,ENFP,E,N,F,P
+255,ENFP,E,N,F,P
+256,ENFP,E,N,F,P
+257,ENFP,E,N,F,P
+258,ENFP,E,N,F,P
+259,ENFP,E,N,F,P
+260,ENFP,E,N,F,P
+261,ENFP,E,N,F,P
+262,ENFP,E,N,F,P
+263,ENFP,E,N,F,P
+264,ENFP,E,N,F,P
+265,ENFP,E,N,F,P
+266,ENFP,E,N,F,P
+267,ENFP,E,N,F,P
+268,ENFP,E,N,F,P
+269,ENFP,E,N,F,P
+270,ENFP,E,N,F,P
+271,ENFP,E,N,F,P
+272,ENFP,E,N,F,P
+273,ENFP,E,N,F,P
+274,ENFP,E,N,F,P
+275,ENFP,E,N,F,P
+276,ENFP,E,N,F,P
+277,ENFP,E,N,F,P
+278,ENFP,E,N,F,P
+279,ENFP,E,N,F,P
+280,ENFP,E,N,F,P
+281,ENFP,E,N,F,P
+282,ENFP,E,N,F,P
+283,ENFP,E,N,F,P
+284,ENFP,E,N,F,P
+285,ENFP,E,N,F,P
+286,ENFP,E,N,F,P
+287,ENTP,E,N,T,P
+288,ENTP,E,N,T,P
+289,ENTP,E,N,T,P
+290,ENTP,E,N,T,P
+291,ENTP,E,N,T,P
+292,ENTP,E,N,T,P
+293,ENTP,E,N,T,P
+294,ENTP,E,N,T,P
+295,ENTP,E,N,T,P
+296,ENTP,E,N,T,P
+297,ENTP,E,N,T,P
+298,ENTP,E,N,T,P
+299,ENTP,E,N,T,P
+300,ENTP,E,N,T,P
+301,ENTP,E,N,T,P
+302,ENTP,E,N,T,P
+303,ENTP,E,N,T,P
+304,ENTP,E,N,T,P
+305,ENTP,E,N,T,P
+306,ENTP,E,N,T,P
+307,ENTP,E,N,T,P
+308,ESTJ,E,S,T,J
+309,ESTJ,E,S,T,J
+310,ESTJ,E,S,T,J
+311,ESTJ,E,S,T,J
+312,ESTJ,E,S,T,J
+313,ESTJ,E,S,T,J
+314,ESTJ,E,S,T,J
+315,ESTJ,E,S,T,J
+316,ESFJ,E,S,F,J
+317,ESFJ,E,S,F,J
+318,ESFJ,E,S,F,J
+319,ESFJ,E,S,F,J
+320,ESFJ,E,S,F,J
+321,ESFJ,E,S,F,J
+322,ESFJ,E,S,F,J
+323,ESFJ,E,S,F,J
+324,ESFJ,E,S,F,J
+325,ESFJ,E,S,F,J
+326,ESFJ,E,S,F,J
+327,ESFJ,E,S,F,J
+328,ESFJ,E,S,F,J
+329,ESFJ,E,S,F,J
+330,ESFJ,E,S,F,J
+331,ESFJ,E,S,F,J
+332,ESFJ,E,S,F,J
+333,ESFJ,E,S,F,J
+334,ESFJ,E,S,F,J
+335,ESFJ,E,S,F,J
+336,ESFJ,E,S,F,J
+337,ESFJ,E,S,F,J
+338,ESFJ,E,S,F,J
+339,ESFJ,E,S,F,J
+340,ESFJ,E,S,F,J
+341,ENFJ,E,N,F,J
+342,ENFJ,E,N,F,J
+343,ENFJ,E,N,F,J
+344,ENFJ,E,N,F,J
+345,ENFJ,E,N,F,J
+346,ENFJ,E,N,F,J
+347,ENFJ,E,N,F,J
+348,ENFJ,E,N,F,J
+349,ENFJ,E,N,F,J
+350,ENFJ,E,N,F,J
+351,ENFJ,E,N,F,J
+352,ENFJ,E,N,F,J
+353,ENFJ,E,N,F,J
+354,ENFJ,E,N,F,J
+355,ENFJ,E,N,F,J
+356,ENFJ,E,N,F,J
+357,ENFJ,E,N,F,J
+358,ENFJ,E,N,F,J
+359,ENFJ,E,N,F,J
+360,ENFJ,E,N,F,J
+361,ENFJ,E,N,F,J
+362,ENFJ,E,N,F,J
+363,ENFJ,E,N,F,J
+364,ENFJ,E,N,F,J
+365,ENFJ,E,N,F,J
+366,ENFJ,E,N,F,J
+367,ENFJ,E,N,F,J
+368,ENFJ,E,N,F,J
+369,ENFJ,E,N,F,J
+370,ENFJ,E,N,F,J
+371,ENFJ,E,N,F,J
+372,ENFJ,E,N,F,J
+373,ENFJ,E,N,F,J
+374,ENFJ,E,N,F,J
+375,ENFJ,E,N,F,J
+376,ENFJ,E,N,F,J
+377,ENFJ,E,N,F,J
+378,ENFJ,E,N,F,J
+379,ENFJ,E,N,F,J
+380,ENFJ,E,N,F,J
+381,ENFJ,E,N,F,J
+382,ENFJ,E,N,F,J
+383,ENTJ,E,N,T,J
+384,ENTJ,E,N,T,J
+385,ENTJ,E,N,T,J
+386,ENTJ,E,N,T,J
+387,ENTJ,E,N,T,J
+388,ENTJ,E,N,T,J
+389,ENTJ,E,N,T,J
+390,ENTJ,E,N,T,J
+391,ENTJ,E,N,T,J
+392,ENTJ,E,N,T,J
+393,ENTJ,E,N,T,J
+394,ENTJ,E,N,T,J

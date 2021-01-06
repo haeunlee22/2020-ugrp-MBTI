@@ -24,6 +24,8 @@ train_dataset = tf.keras.preprocessing.image_dataset_from_directory(TARGET_PATH(
                                              batch_size=BATCH_SIZE,
                                              image_size=IMG_SIZE)
 
+print(train_dataset)
+
 validation_dataset = tf.keras.preprocessing.image_dataset_from_directory(TARGET_PATH("validation"),
                                                   shuffle=True,
                                                   batch_size=BATCH_SIZE,
