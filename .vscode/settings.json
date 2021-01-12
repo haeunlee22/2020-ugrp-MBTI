@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\leeh9\\anaconda3\\python.exe"
+    "python.pythonPath": "C:\\Users\\leeh9\\anaconda3\\envs\\ugrp\\python.exe",
+    "git.ignoreLimitWarning": true
 }
